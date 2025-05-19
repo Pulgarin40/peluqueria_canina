@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.peluqueriacanina"},{"l":"com.mycompany.peluqueriacanina.igu"},{"l":"com.mycompany.peluqueriacanina.logica"},{"l":"com.mycompany.peluqueriacanina.persistencia"},{"l":"com.mycompany.peluqueriacanina.persistencia.exceptions"}];updateSearchResults();

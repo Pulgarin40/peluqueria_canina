@@ -1,0 +1,62 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.10/org.eclipse.persistence.core-2.7.10.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.2.0/org.eclipse.persistence.asm-9.2.0.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.10/org.eclipse.persistence.antlr-2.7.10.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.10/org.eclipse.persistence.jpa-2.7.10.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.10/org.eclipse.persistence.jpa.jpql-2.7.10.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.10/org.eclipse.persistence.moxy-2.7.10.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/Jberp/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.10/org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar;C:/Users/Jberp/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/Jberp/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Jberp/Desktop/Documents/NetBeansProjects/PeluqueriaCanina/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jberp/Desktop/Documents/NetBeansProjects/PeluqueriaCanina/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PeluqueriaCanina 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PeluqueriaCanina 1.0-SNAPSHOT API'
+com.mycompany.peluqueriacanina.igu
+com.mycompany.peluqueriacanina.logica
+com.mycompany.peluqueriacanina
+com.mycompany.peluqueriacanina.persistencia
+com.mycompany.peluqueriacanina.persistencia.exceptions
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.10\org.eclipse.persistence.core-2.7.10.jar = 1742325482001
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\9.2.0\org.eclipse.persistence.asm-9.2.0.jar = 1742325480766
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.10\org.eclipse.persistence.antlr-2.7.10.jar = 1742325480818
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.10\org.eclipse.persistence.jpa-2.7.10.jar = 1742325481399
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.10\org.eclipse.persistence.jpa.jpql-2.7.10.jar = 1742325481247
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.10\org.eclipse.persistence.moxy-2.7.10.jar = 1742325481020
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1742576150816
+C:\Users\Jberp\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.10\org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar = 1742325480958
+C:\Users\Jberp\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1746641924479
+C:\Users\Jberp\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1746641924252
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java = 1746204281283
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\allclasses-index.html = 1747159871710
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\allpackages-index.html = 1747159871714
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\element-list = 1747159871408
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\help-doc.html = 1747159871762
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\index-all.html = 1747159871753
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\index.html = 1747159871681
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\jquery-ui.overrides.css = 1747159871819
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\member-search-index.js = 1747159871722
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\module-search-index.js = 1747159871716
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\overview-summary.html = 1747159871756
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\overview-tree.html = 1747159871673
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\package-search-index.js = 1747159871718
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\script.js = 1747159871767
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\search.js = 1747159871772
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\serialized-form.html = 1747159871539
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\stylesheet.css = 1747159871765
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\tag-search-index.js = 1747159871723
+C:\Users\Jberp\Desktop\Documents\NetBeansProjects\PeluqueriaCanina\target\reports\apidocs\type-search-index.js = 1747159871720
